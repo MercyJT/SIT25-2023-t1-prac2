@@ -1,4 +1,4 @@
-#SIT725-Prac 2
+# SIT725-Prac 2
 
 This is a simple Express.js server that adds two numbers provided as query parameters.
 
